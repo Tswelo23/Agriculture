@@ -1,6 +1,7 @@
 # 🌱 Agriculture – Understanding Modern Agriculture
 
 Agriculture is a static educational website designed to provide clear, engaging, and informative insights into modern agricultural practices. The platform helps users understand different farming methods used in today’s world.
+Live link: https://agriculturea.netlify.app/
 
 ---
 
